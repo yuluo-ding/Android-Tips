@@ -84,6 +84,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
+3. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083?from=timeline&hmsr=toutiao.io&isappinstalled=0&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ### Android Studio
 
